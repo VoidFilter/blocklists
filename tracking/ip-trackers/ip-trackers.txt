@@ -1,8 +1,4 @@
-||grabify.link^
-@@||grabify.link/
-@@||grabify.link/logs^
-@@||grabify.link/profile^
-@@||grabify.link/track/^
+/^https?:\/\/(www\.)?grabify\.link\/[A-Za-z0-9]{6}(?:$|[/?#]).*$/
 ||grabify.org^
 @@||grabify.org/
 @@||grabify.org/track^
