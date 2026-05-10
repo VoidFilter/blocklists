@@ -1,6 +1,9 @@
-/^https?:\/\/(www\.)?grabify\.link\/[A-Za-z0-9]{6}(?:$|[/?#]).*$/
-||grabify.org^
-@@||grabify.org/
+/^https?:\/\/grabify\.link\/[A-Za-z0-9]{6}(?:[/?#]|$)/$document
+@@||grabify.link/
+@@||grabify.link/logs^
+@@||grabify.link/profile^
+@@||grabify.link/track/^
+/^https?:\/\/grabify\.org\/[A-Za-z0-9]{5}(?:[/?#]|$)/$document
 @@||grabify.org/track^
 @@||grabify.org/login^
 @@||grabify.org/register^
