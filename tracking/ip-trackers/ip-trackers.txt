@@ -60,7 +60,6 @@
 ||iplogger.com^
 ||iplogger.ru^
 ||yip.su^
-||iplist.ru^
 ||02ip.ru^
 ||iplogger.co^
 ||iplogger.info^
@@ -89,16 +88,3 @@
 ||snifferip.com^
 ||unl.one^
 ||urito.me^
-ֿֿ||iplogger.org^
-||mymap.icu^
-||photospace.life^
-||imagehub.fun^
-||xtube.chat^
-||screensnaps.top^
-||foot.wiki^
-||screenshare.pics^
-||myprivate.pics^
-||shrekis.life^
-||screenshot.best^
-||gamingfun.me^
-||stopify.co^
