@@ -1,5 +1,4 @@
 /^https?:\/\/grabify\.link\/[A-Za-z0-9]{6}(?:[/?#]|$)/$document
-@@||grabify.link/
 @@||grabify.link/logs^
 @@||grabify.link/profile^
 @@||grabify.link/track/^
